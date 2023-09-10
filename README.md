@@ -13,12 +13,12 @@
 ### Demo
 [Watch the Demo video](https://youtu.be/1303vgwI8x8?si=30izAHm_MrN1ICFT)
 
-# Quarkus Source Code Generator
-## Quarkus Source Code Generator Video (Part #1)
+## Quarkus Source Code Generator
+### Quarkus Source Code Generator Video (Part #1)
 [Watch the video](https://youtu.be/NoiiIOyJOCY)
 
-## Building, Running, and Comparing Quarkus Docker Containers (Part #2)
+### Building, Running, and Comparing Quarkus Docker Containers (Part #2)
 [Watch the video](https://youtu.be/544yONOtzuE)
 
-## Unit Testing, Functional Testing, Performance Testing, and Resilience Testing (Part #3)
+### Unit Testing, Functional Testing, Performance Testing, and Resilience Testing (Part #3)
 [Watch the video](https://youtu.be/BokOEW6TIaA)
