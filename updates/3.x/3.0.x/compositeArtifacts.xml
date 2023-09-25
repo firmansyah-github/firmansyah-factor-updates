@@ -5,20 +5,7 @@
     <property name='p2.timestamp' value='1695648000923'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='14'>
-    <child location='../../../releases/3.0.0.v20230910-2313'/>
-    <child location='../../../releases/3.0.0.v20230911-0848'/>
-    <child location='../../../releases/3.0.0.v20230911-1344'/>
-    <child location='../../../releases/3.0.0.v20230911-2250'/>
-    <child location='../../../releases/3.0.0.v20230912-2306'/>
-    <child location='../../../releases/3.0.0.v20230913-0420'/>
-    <child location='../../../releases/3.0.0.v20230913-0637'/>
-    <child location='../../../releases/3.0.0.v20230913-0727'/>
-    <child location='../../../releases/3.0.0.v20230913-0804'/>
-    <child location='../../../releases/3.0.0.v20230913-0807'/>
-    <child location='../../../releases/3.0.0.v20230913-0810'/>
-    <child location='../../../releases/3.0.0.v20230913-0812'/>
-    <child location='../../../releases/3.0.0.v20230924-1257'/>
+  <children size='1'>
     <child location='../../../releases/3.0.0.v20230925-1319'/>
   </children>
 </repository>
