@@ -2,12 +2,13 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='&quot;Firmansyah The Factor&quot; 3.0.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1707610375487'/>
+    <property name='p2.timestamp' value='1707626654935'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='3'>
+  <children size='4'>
     <child location='../../../releases/3.0.0.v20231009-0753'/>
     <child location='../../../releases/3.0.0.v20231009-1031'/>
     <child location='../../../releases/3.0.1.v20240211-0012'/>
+    <child location='../../../releases/3.0.1.v20240211-0443'/>
   </children>
 </repository>
