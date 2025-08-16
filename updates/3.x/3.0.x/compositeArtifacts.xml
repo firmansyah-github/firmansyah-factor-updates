@@ -2,10 +2,10 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name='&quot;Firmansyah The Factor&quot; 3.0.x' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1755358621019'/>
+    <property name='p2.timestamp' value='1755362844886'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='7'>
+  <children size='8'>
     <child location='../../../releases/3.0.0.v20231009-0753'/>
     <child location='../../../releases/3.0.0.v20231009-1031'/>
     <child location='../../../releases/3.0.1.v20240211-0012'/>
@@ -13,5 +13,6 @@
     <child location='../../../releases/3.0.2.build202508140314'/>
     <child location='../../../releases/3.0.2.v20250815-0321'/>
     <child location='../../../releases/3.0.2.v20250816-1536'/>
+    <child location='../../../releases/3.0.2.v20250816-1646'/>
   </children>
 </repository>
